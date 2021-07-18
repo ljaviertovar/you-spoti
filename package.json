@@ -1,0 +1,29 @@
+{
+  "name": "you-spoti",
+  "version": "1.0.0",
+  "description": "Scraper to get songs of spotify and create playlist on youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljaviertovar/you-spoti.git"
+  },
+  "keywords": [
+    "webscraping",
+    "webscraper",
+    "scraper",
+    "scraping"
+  ],
+  "author": "ljaviertovar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljaviertovar/you-spoti/issues"
+  },
+  "homepage": "https://github.com/ljaviertovar/you-spoti#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0",
+    "urlencode": "^1.1.0"
+  }
+}
